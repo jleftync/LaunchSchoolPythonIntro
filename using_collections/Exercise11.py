@@ -1,0 +1,1 @@
+print(cats['Pete'['Cocoa'['enjoys']]])

@@ -1,0 +1,1 @@
+print(str.upper('confetti floating everywhere'))

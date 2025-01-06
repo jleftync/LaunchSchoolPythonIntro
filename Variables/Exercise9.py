@@ -1,0 +1,5 @@
+balance = 1000 * (1.05)
+balance = 1000 * (1.05)
+balance = 1000 * (1.05)
+balance = 1000 * (1.05)
+balance = 1000 * (1.05)

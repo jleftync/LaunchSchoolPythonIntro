@@ -1,8 +1,8 @@
 # idiomatic
-# idiomatic
+# non-idiomatic
 # idiomatic
 # non-idiomatic
 # illegal
 # non-idiomatic
-# idiomatic
-# illegal
+# non-idiomatic
+# non-idiomatic
